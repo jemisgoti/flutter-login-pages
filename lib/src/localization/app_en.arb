@@ -2,5 +2,19 @@
   "appTitle": "flutter_login_pages",
   "@appTitle": {
     "description": "The title of the application"
-  }
+  },
+  "welcomeBack": "Welcome Back",
+  "logInWelcomeMessage": "Today is a new day. It's your day. You shape it. Sign in to start managing your projects.",
+  "email": "Email",
+  "password": "Password",
+  "atLeast8Characters": "at least 8 characters",
+  "forgotPassword": "Forgot Password",
+  "signIn": "Sign in",
+  "or": "Or",
+  "signInWithGoogle": "Sign in with Google",
+  "signInWithFacebook": "Sign in with Facebook",
+  "donTYouHaveAnAccount": "Don't you have an account? ",
+  "signUp": "Sign up",
+  "allRightsReserved": "ALL RIGHTS RESERVED",
+  "emailAddress": "Email Address"
 }
